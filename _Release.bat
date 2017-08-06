@@ -13,6 +13,8 @@ out\Hako2.exe /L
 IF ERRORLEVEL 1 START ?_LOG_ENABLED
 
 C:\Factory\Tools\xcp.exe doc out
+ren out\Manual.txt マニュアル.txt
+ren out\Changelog.txt 更新履歴.txt
 
 MD out\Map
 COPY /B res\_Dummy out\Map
