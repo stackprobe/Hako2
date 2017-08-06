@@ -1,0 +1,145 @@
+/*
+	固定小数点の int 表現での denom
+	1 == 0.001
+	IMAX == 1,000,000
+*/
+#define IDENOM 1000
+
+// fixed Point Int
+typedef int fPInt_t; // (int)1 is (fPInt_t)IDENOM
+
+#define m_fpi2i(value) \
+	(((value) + IDENOM / 2) / IDENOM)
+
+//----
+
+#define CELLSIZE 32
+
+#define JUMPFRAME_MAX 22
+#define BORNFRAME_MAX 30
+#define DEADFRAME_MAX 50
+#define DEADFRAME_BURN 30
+#define FLOORCLEARFRAME_ERASE 20
+#define FLOORCLEARFRAME_MAX 100
+
+#define MAP_W_MIN 40
+#define MAP_W_MAX 1000
+#define MAP_H_MIN 30
+#define MAP_H_MAX 1000
+
+#define FLOOR_NUM 3
+
+enum // CellType
+{
+	// CellType -->
+
+	CT_EMPTY, // as 0
+	CT_WALL,
+	CT_DEATH,
+	CT_START,
+	CT_GOAL,
+
+	// EnemyType -->
+
+	/*
+		アルカノイド
+		数字は初期ベクトル
+	*/
+	ET_ARKANOID_6,
+	ET_ARKANOID_3,
+	ET_ARKANOID_2,
+	ET_ARKANOID_1,
+	ET_ARKANOID_4,
+	ET_ARKANOID_7,
+	ET_ARKANOID_8,
+	ET_ARKANOID_9,
+
+#define ET_ARKANOID_FIRST ET_ARKANOID_6
+#define ET_ARKANOID_LAST ET_ARKANOID_9
+
+	/*
+		パタパタ
+	*/
+	ET_LPATA,
+	ET_LPATA_SLOW,
+	ET_LPATA_HISPEED,
+	ET_RPATA,
+	ET_RPATA_SLOW,
+	ET_RPATA_HISPEED,
+
+#define ET_PATA_FIRST ET_LPATA
+#define ET_PATA_LAST ET_RPATA_HISPEED
+
+	/*
+		クッキー
+		数字は初期角度(方向)
+		HTは反時計回り
+	*/
+	ET_COOKIE_6,
+	ET_COOKIE_3,
+	ET_COOKIE_2,
+	ET_COOKIE_1,
+	ET_COOKIE_4,
+	ET_COOKIE_7,
+	ET_COOKIE_8,
+	ET_COOKIE_9,
+	ET_HTCOOKIE_6,
+	ET_HTCOOKIE_3,
+	ET_HTCOOKIE_2,
+	ET_HTCOOKIE_1,
+	ET_HTCOOKIE_4,
+	ET_HTCOOKIE_7,
+	ET_HTCOOKIE_8,
+	ET_HTCOOKIE_9,
+
+#define ET_COOKIE_FIRST ET_COOKIE_6
+#define ET_COOKIE_LAST ET_HTCOOKIE_9
+
+	ET_OTHER_FIRST, // dummy
+
+#define STOKER_MAX 9
+#define GUNNER_MAX 16
+#define BULLET_MAX 8
+#define DAIKAITEN_MAX 16
+#define TRAP_MAX 8
+#define ASHIBA_MAX 8
+
+	ENUM_RANGE(ET_STOKER_00, STOKER_MAX)
+	ENUM_RANGE(ET_GUNNER_00, GUNNER_MAX)
+	ENUM_RANGE(ET_BULLET_00, BULLET_MAX)
+	ENUM_RANGE(ET_DAIKAITEN_00, DAIKAITEN_MAX)
+	ENUM_RANGE(ET_TRAP_00, TRAP_MAX)
+	ENUM_RANGE(ET_ASHIBA_00, ASHIBA_MAX)
+	ET_ENEMY_WALL,
+	ET_PLAYER_WALL,
+
+	// @ AddEnemy
+
+	ET_OTHER_LAST, // dummy
+
+#define ET_FIRST ET_ARKANOID_6
+#define ET_LAST ET_OTHER_LAST//ET_HTCOOKIE_9
+
+	CT_MAX, // num of (CT_* + ET_*)
+};
+
+#define CT_EDITABLE_FIRST CT_WALL
+#define CT_EDITABLE_LAST ET_OTHER_LAST//ET_HTCOOKIE_9
+
+typedef enum Touch_et
+{
+	TOUCH_NONE,
+	TOUCH_L,
+	TOUCH_R,
+}
+Touch_t;
+
+#define METEOR_P_MAX 9 // P_METEOR_00 の色数
+#define METEOR_D_MAX 20 // P_METEOR_00 １色の枚数
+
+#define KABE_BR_MAX 50
+#define DAIKAITEN_SATELLITE_MAX 3
+#define FLOOR_02_WALL_MAX 24
+
+#define RESPAWN_DEF 3
+#define RESPAWN_MAX_MAX 12 // MIN は 0

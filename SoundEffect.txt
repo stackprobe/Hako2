@@ -1,0 +1,15 @@
+C:\Dat\muon.wav
+Resource\Taira\explosion05.mp3
+Resource\Taira\jump12.mp3
+Resource\Taira\question.mp3
+Resource\Taira\Surprise.mp3
+Resource\Taira\coin05.mp3
+Resource\Taira\coin07.mp3
+Resource\Taira\coin04.mp3
+Resource\Taira\powerup04.mp3
+Resource\Taira\crrect_answer2.mp3
+Resource\Taira\bomb.mp3
+Resource\Taira\warp1.mp3
+Resource\Taira\cat_like1a.mp3
+Resource\Taira\cat_like1b.mp3
+Resource\Taira\pickup02.mp3
