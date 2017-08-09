@@ -1,5 +1,5 @@
-Square
-======
+Hako2
+=====
 
 Windows用フリーゲーム Hako2 の開発環境です。
 
