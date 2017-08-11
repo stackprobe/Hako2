@@ -1,34 +1,34 @@
-�퓬�p�G�t�F�N�g�A�j���[�V�����摜�ɂȂ�܂��B
+戦闘用エフェクトアニメーション画像になります。
 
-���^���e�͈ȉ��̂Ƃ���ł��B
-�@pipo-mapeffect011a.png�@���ꐯ(��)�@�p�^�[�����F20�@�\�����@�F�ʏ�
-�@pipo-mapeffect011b.png�@���ꐯ(��)�@�p�^�[�����F20�@�\�����@�F�ʏ�
-�@pipo-mapeffect011c.png�@���ꐯ(��)�@�p�^�[�����F20�@�\�����@�F�ʏ�
-�@pipo-mapeffect011d.png�@���ꐯ(��)�@�p�^�[�����F20�@�\�����@�F�ʏ�
-�@pipo-mapeffect011e.png�@���ꐯ(��)�@�p�^�[�����F20�@�\�����@�F�ʏ�
-�@pipo-mapeffect011f.png�@���ꐯ(���F)�@�p�^�[�����F20�@�\�����@�F�ʏ�
-�@pipo-mapeffect011g.png�@���ꐯ(��)�@�p�^�[�����F20�@�\�����@�F�ʏ�
-�@pipo-mapeffect011h.png�@���ꐯ(�s���N)�@�p�^�[�����F20�@�\�����@�F�ʏ�
-�@pipo-mapeffect011i.png�@���ꐯ(�I�����W)�@�p�^�[�����F20�@�\�����@�F�ʏ�
-�@pipo-mapeffect011j.png�@���ꐯ(��)�@�p�^�[�����F20�@�\�����@�F�ʏ�
-
-
-��1�Z�b�g�ɂȂ�܂��B
-�P�R�}120�~120�T�C�Y�E192�~192�T�C�Y(RPG�c�N�[���K�i)�E240�~240�T�C�Y������܂��B
+収録内容は以下のとおりです。
+　pipo-mapeffect011a.png　流れ星(白)　パターン数：20　表示方法：通常
+　pipo-mapeffect011b.png　流れ星(黒)　パターン数：20　表示方法：通常
+　pipo-mapeffect011c.png　流れ星(紫)　パターン数：20　表示方法：通常
+　pipo-mapeffect011d.png　流れ星(緑)　パターン数：20　表示方法：通常
+　pipo-mapeffect011e.png　流れ星(青)　パターン数：20　表示方法：通常
+　pipo-mapeffect011f.png　流れ星(水色)　パターン数：20　表示方法：通常
+　pipo-mapeffect011g.png　流れ星(赤)　パターン数：20　表示方法：通常
+　pipo-mapeffect011h.png　流れ星(ピンク)　パターン数：20　表示方法：通常
+　pipo-mapeffect011i.png　流れ星(オレンジ)　パターン数：20　表示方法：通常
+　pipo-mapeffect011j.png　流れ星(黄)　パターン数：20　表示方法：通常
 
 
-�t�@�C���T�C�Y���������������ꍇ�ɂ͂�����̋L�����Q�l�ɂǂ����B
-�t���[�\�t�g���g���ĊȒP�ȑ���Ńt�@�C���T�C�Y�����������邱�Ƃ��ł��܂��B
-���`�����l���t��PNG�摜�̃t�@�C���T�C�Y������������ : �҂ۂ�
+の1セットになります。
+１コマ120×120サイズ・192×192サイズ(RPGツクール規格)・240×240サイズがあります。
+
+
+ファイルサイズを小さくしたい場合にはこちらの記事を参考にどうぞ。
+フリーソフトを使って簡単な操作でファイルサイズを小さくすることができます。
+αチャンネル付きPNG画像のファイルサイズを小さくする : ぴぽや
 http://piposozai.blog76.fc2.com/blog-entry-388.html
 
 
-�����p����
-�u�c���E��c����킸�̗��pOK�v
-�u���HOK�v
-�u�񎟔z�zOK�i�������f�ނ��̂��̂̏��p�̔��͋֎~�j�v
-�u�X�^�b�t���[���Ȃǂւ̖��O�̋L�q�E�g�p�A���s�v�v
-�u�E�f�B�^�ȊO�̃c�[���ł̎g�p���\�v
+●利用条件
+「営利・非営利問わずの利用OK」
+「加工OK」
+「二次配布OK（ただし素材そのものの商用販売は禁止）」
+「スタッフロールなどへの名前の記述・使用連絡不要」
+「ウディタ以外のツールでの使用も可能」
 
-�҂ۂ�
+ぴぽや
 http://piposozai.blog76.fc2.com

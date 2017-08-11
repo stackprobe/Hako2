@@ -1,81 +1,81 @@
-í“¬—pƒGƒtƒFƒNƒgƒAƒjƒ[ƒVƒ‡ƒ“‰æ‘œ‚É‚È‚è‚Ü‚·B
+æˆ¦é—˜ç”¨ã‚¨ãƒ•ã‚§ã‚¯ãƒˆã‚¢ãƒ‹ãƒ¡ãƒ¼ã‚·ãƒ§ãƒ³ç”»åƒã«ãªã‚Šã¾ã™ã€‚
 
-Žû˜^“à—e‚ÍˆÈ‰º‚Ì‚Æ‚¨‚è‚Å‚·B
-@pipo-btleffect102a.png@ƒVƒ“ƒvƒ‹‰Š@ƒpƒ^[ƒ“”F10
-@pipo-btleffect102b.png@ƒVƒ“ƒvƒ‹‰Š(Ô)@ƒpƒ^[ƒ“”F10
-@pipo-btleffect102c.png@ƒVƒ“ƒvƒ‹‰Š(Â)@ƒpƒ^[ƒ“”F10
-@pipo-btleffect102d.png@ƒVƒ“ƒvƒ‹‰Š(—Î)@ƒpƒ^[ƒ“”F10
-@pipo-btleffect102e.png@ƒVƒ“ƒvƒ‹‰Š(‰©)@ƒpƒ^[ƒ“”F10
-@pipo-btleffect102f.png@ƒVƒ“ƒvƒ‹‰Š(ƒsƒ“ƒN)@ƒpƒ^[ƒ“”F10
-@pipo-btleffect102g.png@ƒVƒ“ƒvƒ‹‰Š(Ž‡)@ƒpƒ^[ƒ“”F10
-@pipo-btleffect102h.png@ƒVƒ“ƒvƒ‹‰Š(•)@ƒpƒ^[ƒ“”F10
-@pipo-btleffect102i.png@ƒVƒ“ƒvƒ‹‰Š(”’)@ƒpƒ^[ƒ“”F10
+åŽéŒ²å†…å®¹ã¯ä»¥ä¸‹ã®ã¨ãŠã‚Šã§ã™ã€‚
+ã€€pipo-btleffect102a.pngã€€ã‚·ãƒ³ãƒ—ãƒ«ç‚Žã€€ãƒ‘ã‚¿ãƒ¼ãƒ³æ•°ï¼š10
+ã€€pipo-btleffect102b.pngã€€ã‚·ãƒ³ãƒ—ãƒ«ç‚Ž(èµ¤)ã€€ãƒ‘ã‚¿ãƒ¼ãƒ³æ•°ï¼š10
+ã€€pipo-btleffect102c.pngã€€ã‚·ãƒ³ãƒ—ãƒ«ç‚Ž(é’)ã€€ãƒ‘ã‚¿ãƒ¼ãƒ³æ•°ï¼š10
+ã€€pipo-btleffect102d.pngã€€ã‚·ãƒ³ãƒ—ãƒ«ç‚Ž(ç·‘)ã€€ãƒ‘ã‚¿ãƒ¼ãƒ³æ•°ï¼š10
+ã€€pipo-btleffect102e.pngã€€ã‚·ãƒ³ãƒ—ãƒ«ç‚Ž(é»„)ã€€ãƒ‘ã‚¿ãƒ¼ãƒ³æ•°ï¼š10
+ã€€pipo-btleffect102f.pngã€€ã‚·ãƒ³ãƒ—ãƒ«ç‚Ž(ãƒ”ãƒ³ã‚¯)ã€€ãƒ‘ã‚¿ãƒ¼ãƒ³æ•°ï¼š10
+ã€€pipo-btleffect102g.pngã€€ã‚·ãƒ³ãƒ—ãƒ«ç‚Ž(ç´«)ã€€ãƒ‘ã‚¿ãƒ¼ãƒ³æ•°ï¼š10
+ã€€pipo-btleffect102h.pngã€€ã‚·ãƒ³ãƒ—ãƒ«ç‚Ž(é»’)ã€€ãƒ‘ã‚¿ãƒ¼ãƒ³æ•°ï¼š10
+ã€€pipo-btleffect102i.pngã€€ã‚·ãƒ³ãƒ—ãƒ«ç‚Ž(ç™½)ã€€ãƒ‘ã‚¿ãƒ¼ãƒ³æ•°ï¼š10
 
-@‰Eã‚©‚çŽÎ‚ß
-@pipo-btleffect103a.png@ƒVƒ“ƒvƒ‹‰Š@ƒpƒ^[ƒ“”F10
-@pipo-btleffect103b.png@ƒVƒ“ƒvƒ‹‰Š(Ô)@ƒpƒ^[ƒ“”F10
-@pipo-btleffect103c.png@ƒVƒ“ƒvƒ‹‰Š(Â)@ƒpƒ^[ƒ“”F10
-@pipo-btleffect103d.png@ƒVƒ“ƒvƒ‹‰Š(—Î)@ƒpƒ^[ƒ“”F10
-@pipo-btleffect103e.png@ƒVƒ“ƒvƒ‹‰Š(‰©)@ƒpƒ^[ƒ“”F10
-@pipo-btleffect103f.png@ƒVƒ“ƒvƒ‹‰Š(ƒsƒ“ƒN)@ƒpƒ^[ƒ“”F10
-@pipo-btleffect103g.png@ƒVƒ“ƒvƒ‹‰Š(Ž‡)@ƒpƒ^[ƒ“”F10
-@pipo-btleffect103h.png@ƒVƒ“ƒvƒ‹‰Š(•)@ƒpƒ^[ƒ“”F10
-@pipo-btleffect103i.png@ƒVƒ“ƒvƒ‹‰Š(”’)@ƒpƒ^[ƒ“”F10
+ã€€å³ä¸Šã‹ã‚‰æ–œã‚
+ã€€pipo-btleffect103a.pngã€€ã‚·ãƒ³ãƒ—ãƒ«ç‚Žã€€ãƒ‘ã‚¿ãƒ¼ãƒ³æ•°ï¼š10
+ã€€pipo-btleffect103b.pngã€€ã‚·ãƒ³ãƒ—ãƒ«ç‚Ž(èµ¤)ã€€ãƒ‘ã‚¿ãƒ¼ãƒ³æ•°ï¼š10
+ã€€pipo-btleffect103c.pngã€€ã‚·ãƒ³ãƒ—ãƒ«ç‚Ž(é’)ã€€ãƒ‘ã‚¿ãƒ¼ãƒ³æ•°ï¼š10
+ã€€pipo-btleffect103d.pngã€€ã‚·ãƒ³ãƒ—ãƒ«ç‚Ž(ç·‘)ã€€ãƒ‘ã‚¿ãƒ¼ãƒ³æ•°ï¼š10
+ã€€pipo-btleffect103e.pngã€€ã‚·ãƒ³ãƒ—ãƒ«ç‚Ž(é»„)ã€€ãƒ‘ã‚¿ãƒ¼ãƒ³æ•°ï¼š10
+ã€€pipo-btleffect103f.pngã€€ã‚·ãƒ³ãƒ—ãƒ«ç‚Ž(ãƒ”ãƒ³ã‚¯)ã€€ãƒ‘ã‚¿ãƒ¼ãƒ³æ•°ï¼š10
+ã€€pipo-btleffect103g.pngã€€ã‚·ãƒ³ãƒ—ãƒ«ç‚Ž(ç´«)ã€€ãƒ‘ã‚¿ãƒ¼ãƒ³æ•°ï¼š10
+ã€€pipo-btleffect103h.pngã€€ã‚·ãƒ³ãƒ—ãƒ«ç‚Ž(é»’)ã€€ãƒ‘ã‚¿ãƒ¼ãƒ³æ•°ï¼š10
+ã€€pipo-btleffect103i.pngã€€ã‚·ãƒ³ãƒ—ãƒ«ç‚Ž(ç™½)ã€€ãƒ‘ã‚¿ãƒ¼ãƒ³æ•°ï¼š10
 
-@¶ã‚©‚çŽÎ‚ß
-@pipo-btleffect104a.png@ƒVƒ“ƒvƒ‹‰Š@ƒpƒ^[ƒ“”F10
-@pipo-btleffect104b.png@ƒVƒ“ƒvƒ‹‰Š(Ô)@ƒpƒ^[ƒ“”F10
-@pipo-btleffect104c.png@ƒVƒ“ƒvƒ‹‰Š(Â)@ƒpƒ^[ƒ“”F10
-@pipo-btleffect104d.png@ƒVƒ“ƒvƒ‹‰Š(—Î)@ƒpƒ^[ƒ“”F10
-@pipo-btleffect104e.png@ƒVƒ“ƒvƒ‹‰Š(‰©)@ƒpƒ^[ƒ“”F10
-@pipo-btleffect104f.png@ƒVƒ“ƒvƒ‹‰Š(ƒsƒ“ƒN)@ƒpƒ^[ƒ“”F10
-@pipo-btleffect104g.png@ƒVƒ“ƒvƒ‹‰Š(Ž‡)@ƒpƒ^[ƒ“”F10
-@pipo-btleffect104h.png@ƒVƒ“ƒvƒ‹‰Š(•)@ƒpƒ^[ƒ“”F10
-@pipo-btleffect104i.png@ƒVƒ“ƒvƒ‹‰Š(”’)@ƒpƒ^[ƒ“”F10
+ã€€å·¦ä¸Šã‹ã‚‰æ–œã‚
+ã€€pipo-btleffect104a.pngã€€ã‚·ãƒ³ãƒ—ãƒ«ç‚Žã€€ãƒ‘ã‚¿ãƒ¼ãƒ³æ•°ï¼š10
+ã€€pipo-btleffect104b.pngã€€ã‚·ãƒ³ãƒ—ãƒ«ç‚Ž(èµ¤)ã€€ãƒ‘ã‚¿ãƒ¼ãƒ³æ•°ï¼š10
+ã€€pipo-btleffect104c.pngã€€ã‚·ãƒ³ãƒ—ãƒ«ç‚Ž(é’)ã€€ãƒ‘ã‚¿ãƒ¼ãƒ³æ•°ï¼š10
+ã€€pipo-btleffect104d.pngã€€ã‚·ãƒ³ãƒ—ãƒ«ç‚Ž(ç·‘)ã€€ãƒ‘ã‚¿ãƒ¼ãƒ³æ•°ï¼š10
+ã€€pipo-btleffect104e.pngã€€ã‚·ãƒ³ãƒ—ãƒ«ç‚Ž(é»„)ã€€ãƒ‘ã‚¿ãƒ¼ãƒ³æ•°ï¼š10
+ã€€pipo-btleffect104f.pngã€€ã‚·ãƒ³ãƒ—ãƒ«ç‚Ž(ãƒ”ãƒ³ã‚¯)ã€€ãƒ‘ã‚¿ãƒ¼ãƒ³æ•°ï¼š10
+ã€€pipo-btleffect104g.pngã€€ã‚·ãƒ³ãƒ—ãƒ«ç‚Ž(ç´«)ã€€ãƒ‘ã‚¿ãƒ¼ãƒ³æ•°ï¼š10
+ã€€pipo-btleffect104h.pngã€€ã‚·ãƒ³ãƒ—ãƒ«ç‚Ž(é»’)ã€€ãƒ‘ã‚¿ãƒ¼ãƒ³æ•°ï¼š10
+ã€€pipo-btleffect104i.pngã€€ã‚·ãƒ³ãƒ—ãƒ«ç‚Ž(ç™½)ã€€ãƒ‘ã‚¿ãƒ¼ãƒ³æ•°ï¼š10
 
-@‰E‰º‚©‚çŽÎ‚ß
-@pipo-btleffect105a.png@ƒVƒ“ƒvƒ‹‰Š@ƒpƒ^[ƒ“”F10
-@pipo-btleffect105b.png@ƒVƒ“ƒvƒ‹‰Š(Ô)@ƒpƒ^[ƒ“”F10
-@pipo-btleffect105c.png@ƒVƒ“ƒvƒ‹‰Š(Â)@ƒpƒ^[ƒ“”F10
-@pipo-btleffect105d.png@ƒVƒ“ƒvƒ‹‰Š(—Î)@ƒpƒ^[ƒ“”F10
-@pipo-btleffect105e.png@ƒVƒ“ƒvƒ‹‰Š(‰©)@ƒpƒ^[ƒ“”F10
-@pipo-btleffect105f.png@ƒVƒ“ƒvƒ‹‰Š(ƒsƒ“ƒN)@ƒpƒ^[ƒ“”F10
-@pipo-btleffect105g.png@ƒVƒ“ƒvƒ‹‰Š(Ž‡)@ƒpƒ^[ƒ“”F10
-@pipo-btleffect105h.png@ƒVƒ“ƒvƒ‹‰Š(•)@ƒpƒ^[ƒ“”F10
-@pipo-btleffect105i.png@ƒVƒ“ƒvƒ‹‰Š(”’)@ƒpƒ^[ƒ“”F10
+ã€€å³ä¸‹ã‹ã‚‰æ–œã‚
+ã€€pipo-btleffect105a.pngã€€ã‚·ãƒ³ãƒ—ãƒ«ç‚Žã€€ãƒ‘ã‚¿ãƒ¼ãƒ³æ•°ï¼š10
+ã€€pipo-btleffect105b.pngã€€ã‚·ãƒ³ãƒ—ãƒ«ç‚Ž(èµ¤)ã€€ãƒ‘ã‚¿ãƒ¼ãƒ³æ•°ï¼š10
+ã€€pipo-btleffect105c.pngã€€ã‚·ãƒ³ãƒ—ãƒ«ç‚Ž(é’)ã€€ãƒ‘ã‚¿ãƒ¼ãƒ³æ•°ï¼š10
+ã€€pipo-btleffect105d.pngã€€ã‚·ãƒ³ãƒ—ãƒ«ç‚Ž(ç·‘)ã€€ãƒ‘ã‚¿ãƒ¼ãƒ³æ•°ï¼š10
+ã€€pipo-btleffect105e.pngã€€ã‚·ãƒ³ãƒ—ãƒ«ç‚Ž(é»„)ã€€ãƒ‘ã‚¿ãƒ¼ãƒ³æ•°ï¼š10
+ã€€pipo-btleffect105f.pngã€€ã‚·ãƒ³ãƒ—ãƒ«ç‚Ž(ãƒ”ãƒ³ã‚¯)ã€€ãƒ‘ã‚¿ãƒ¼ãƒ³æ•°ï¼š10
+ã€€pipo-btleffect105g.pngã€€ã‚·ãƒ³ãƒ—ãƒ«ç‚Ž(ç´«)ã€€ãƒ‘ã‚¿ãƒ¼ãƒ³æ•°ï¼š10
+ã€€pipo-btleffect105h.pngã€€ã‚·ãƒ³ãƒ—ãƒ«ç‚Ž(é»’)ã€€ãƒ‘ã‚¿ãƒ¼ãƒ³æ•°ï¼š10
+ã€€pipo-btleffect105i.pngã€€ã‚·ãƒ³ãƒ—ãƒ«ç‚Ž(ç™½)ã€€ãƒ‘ã‚¿ãƒ¼ãƒ³æ•°ï¼š10
 
-@¶‰º‚©‚çŽÎ‚ß
-@pipo-btleffect106a.png@ƒVƒ“ƒvƒ‹‰Š@ƒpƒ^[ƒ“”F10
-@pipo-btleffect106b.png@ƒVƒ“ƒvƒ‹‰Š(Ô)@ƒpƒ^[ƒ“”F10
-@pipo-btleffect106c.png@ƒVƒ“ƒvƒ‹‰Š(Â)@ƒpƒ^[ƒ“”F10
-@pipo-btleffect106d.png@ƒVƒ“ƒvƒ‹‰Š(—Î)@ƒpƒ^[ƒ“”F10
-@pipo-btleffect106e.png@ƒVƒ“ƒvƒ‹‰Š(‰©)@ƒpƒ^[ƒ“”F10
-@pipo-btleffect106f.png@ƒVƒ“ƒvƒ‹‰Š(ƒsƒ“ƒN)@ƒpƒ^[ƒ“”F10
-@pipo-btleffect106g.png@ƒVƒ“ƒvƒ‹‰Š(Ž‡)@ƒpƒ^[ƒ“”F10
-@pipo-btleffect106h.png@ƒVƒ“ƒvƒ‹‰Š(•)@ƒpƒ^[ƒ“”F10
-@pipo-btleffect106i.png@ƒVƒ“ƒvƒ‹‰Š(”’)@ƒpƒ^[ƒ“”F10
+ã€€å·¦ä¸‹ã‹ã‚‰æ–œã‚
+ã€€pipo-btleffect106a.pngã€€ã‚·ãƒ³ãƒ—ãƒ«ç‚Žã€€ãƒ‘ã‚¿ãƒ¼ãƒ³æ•°ï¼š10
+ã€€pipo-btleffect106b.pngã€€ã‚·ãƒ³ãƒ—ãƒ«ç‚Ž(èµ¤)ã€€ãƒ‘ã‚¿ãƒ¼ãƒ³æ•°ï¼š10
+ã€€pipo-btleffect106c.pngã€€ã‚·ãƒ³ãƒ—ãƒ«ç‚Ž(é’)ã€€ãƒ‘ã‚¿ãƒ¼ãƒ³æ•°ï¼š10
+ã€€pipo-btleffect106d.pngã€€ã‚·ãƒ³ãƒ—ãƒ«ç‚Ž(ç·‘)ã€€ãƒ‘ã‚¿ãƒ¼ãƒ³æ•°ï¼š10
+ã€€pipo-btleffect106e.pngã€€ã‚·ãƒ³ãƒ—ãƒ«ç‚Ž(é»„)ã€€ãƒ‘ã‚¿ãƒ¼ãƒ³æ•°ï¼š10
+ã€€pipo-btleffect106f.pngã€€ã‚·ãƒ³ãƒ—ãƒ«ç‚Ž(ãƒ”ãƒ³ã‚¯)ã€€ãƒ‘ã‚¿ãƒ¼ãƒ³æ•°ï¼š10
+ã€€pipo-btleffect106g.pngã€€ã‚·ãƒ³ãƒ—ãƒ«ç‚Ž(ç´«)ã€€ãƒ‘ã‚¿ãƒ¼ãƒ³æ•°ï¼š10
+ã€€pipo-btleffect106h.pngã€€ã‚·ãƒ³ãƒ—ãƒ«ç‚Ž(é»’)ã€€ãƒ‘ã‚¿ãƒ¼ãƒ³æ•°ï¼š10
+ã€€pipo-btleffect106i.pngã€€ã‚·ãƒ³ãƒ—ãƒ«ç‚Ž(ç™½)ã€€ãƒ‘ã‚¿ãƒ¼ãƒ³æ•°ï¼š10
 
 
-‚Ì5ƒZƒbƒg‚É‚È‚è‚Ü‚·B
-320~240‰æ–Ê—p‚Ì‚PƒRƒ}120~120E120~180E180~120ƒTƒCƒYA
-640~480‰æ–Ê—p‚Ì‚PƒRƒ}240~240E240~360E360~240ƒTƒCƒYƒTƒCƒY‚ª‚ ‚è‚Ü‚·B
+ã®5ã‚»ãƒƒãƒˆã«ãªã‚Šã¾ã™ã€‚
+320Ã—240ç”»é¢ç”¨ã®ï¼‘ã‚³ãƒž120Ã—120ãƒ»120Ã—180ãƒ»180Ã—120ã‚µã‚¤ã‚ºã€
+640Ã—480ç”»é¢ç”¨ã®ï¼‘ã‚³ãƒž240Ã—240ãƒ»240Ã—360ãƒ»360Ã—240ã‚µã‚¤ã‚ºã‚µã‚¤ã‚ºãŒã‚ã‚Šã¾ã™ã€‚
 
-ƒtƒ@ƒCƒ‹ƒTƒCƒY‚ª‘å‚«‚ß‚È‚Ì‚ÅA640~480‰æ–Ê‚ÅŽg—p‚·‚é
-ê‡‚Å‚à320~240‰æ–Ê—p‚Ì‚à‚Ì‚ð200“‚ÉŠg‘å‚µ‚ÄŽg—p‚µ‚Ä‚à
-‚¢‚¢‚©‚à‚µ‚ê‚Ü‚¹‚ñB
+ãƒ•ã‚¡ã‚¤ãƒ«ã‚µã‚¤ã‚ºãŒå¤§ãã‚ãªã®ã§ã€640Ã—480ç”»é¢ã§ä½¿ç”¨ã™ã‚‹
+å ´åˆã§ã‚‚320Ã—240ç”»é¢ç”¨ã®ã‚‚ã®ã‚’200ï¼…ã«æ‹¡å¤§ã—ã¦ä½¿ç”¨ã—ã¦ã‚‚
+ã„ã„ã‹ã‚‚ã—ã‚Œã¾ã›ã‚“ã€‚
 
-ƒtƒ@ƒCƒ‹ƒTƒCƒY‚ð‚à‚Á‚Æ¬‚³‚­‚µ‚½‚¢ê‡‚É‚Í‚±‚¿‚ç‚Ì‹LŽ–‚ðŽQl‚É‚Ç‚¤‚¼B
-ƒtƒŠ[ƒ\ƒtƒg‚ðŽg‚Á‚ÄŠÈ’P‚È‘€ì‚Åƒtƒ@ƒCƒ‹ƒTƒCƒY‚ð¬‚³‚­‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B
-ƒ¿ƒ`ƒƒƒ“ƒlƒ‹•t‚«PNG‰æ‘œ‚Ìƒtƒ@ƒCƒ‹ƒTƒCƒY‚ð¬‚³‚­‚·‚é : ‚Ò‚Û‚â
+ãƒ•ã‚¡ã‚¤ãƒ«ã‚µã‚¤ã‚ºã‚’ã‚‚ã£ã¨å°ã•ãã—ãŸã„å ´åˆã«ã¯ã“ã¡ã‚‰ã®è¨˜äº‹ã‚’å‚è€ƒã«ã©ã†ãžã€‚
+ãƒ•ãƒªãƒ¼ã‚½ãƒ•ãƒˆã‚’ä½¿ã£ã¦ç°¡å˜ãªæ“ä½œã§ãƒ•ã‚¡ã‚¤ãƒ«ã‚µã‚¤ã‚ºã‚’å°ã•ãã™ã‚‹ã“ã¨ãŒã§ãã¾ã™ã€‚
+Î±ãƒãƒ£ãƒ³ãƒãƒ«ä»˜ãPNGç”»åƒã®ãƒ•ã‚¡ã‚¤ãƒ«ã‚µã‚¤ã‚ºã‚’å°ã•ãã™ã‚‹ : ã´ã½ã‚„
 http://piposozai.blog76.fc2.com/blog-entry-388.html
 
 
-œ—˜—pðŒ
-u‰c—˜E”ñ‰c—˜–â‚í‚¸‚Ì—˜—pOKv
-u‰ÁHOKv
-u“ñŽŸ”z•zOKi‚½‚¾‚µ‘fÞ‚»‚Ì‚à‚Ì‚Ì¤—p”Ì”„‚Í‹ÖŽ~jv
-uƒXƒ^ƒbƒtƒ[ƒ‹‚È‚Ç‚Ö‚Ì–¼‘O‚Ì‹LqEŽg—p˜A—•s—vv
-uƒEƒfƒBƒ^ˆÈŠO‚Ìƒc[ƒ‹‚Å‚ÌŽg—p‚à‰Â”\v
+â—åˆ©ç”¨æ¡ä»¶
+ã€Œå–¶åˆ©ãƒ»éžå–¶åˆ©å•ã‚ãšã®åˆ©ç”¨OKã€
+ã€ŒåŠ å·¥OKã€
+ã€ŒäºŒæ¬¡é…å¸ƒOKï¼ˆãŸã ã—ç´ æãã®ã‚‚ã®ã®å•†ç”¨è²©å£²ã¯ç¦æ­¢ï¼‰ã€
+ã€Œã‚¹ã‚¿ãƒƒãƒ•ãƒ­ãƒ¼ãƒ«ãªã©ã¸ã®åå‰ã®è¨˜è¿°ãƒ»ä½¿ç”¨é€£çµ¡ä¸è¦ã€
+ã€Œã‚¦ãƒ‡ã‚£ã‚¿ä»¥å¤–ã®ãƒ„ãƒ¼ãƒ«ã§ã®ä½¿ç”¨ã‚‚å¯èƒ½ã€
 
-‚Ò‚Û‚â
+ã´ã½ã‚„
 http://piposozai.blog76.fc2.com

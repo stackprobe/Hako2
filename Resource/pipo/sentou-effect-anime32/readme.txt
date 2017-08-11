@@ -1,35 +1,35 @@
-�퓬�p�G�t�F�N�g�A�j���[�V�����摜�ɂȂ�܂��B
+戦闘用エフェクトアニメーション画像になります。
 
-���^���e�͈ȉ��̂Ƃ���ł��B
-�@pipo_coin001.png�@�R�C���P�́@�p�^�[�����F10�@�\�����@�F�ʏ�E���Z
-�@pipo_coin001-01.png�`pipo_coin001-10.png�@�R�C���P�̃o���摜
+収録内容は以下のとおりです。
+　pipo_coin001.png　コイン単体　パターン数：10　表示方法：通常・加算
+　pipo_coin001-01.png～pipo_coin001-10.png　コイン単体バラ画像
 
-�@pipo-btleffect142.png�@�R�C���P�@�p�^�[�����F30�@�\�����@�F�ʏ�E���Z
-�@pipo-btleffect143.png�@�R�C���Q�@�p�^�[�����F30�@�\�����@�F�ʏ�E���Z
+　pipo-btleffect142.png　コイン１　パターン数：30　表示方法：通常・加算
+　pipo-btleffect143.png　コイン２　パターン数：30　表示方法：通常・加算
 
-�̂R�Z�b�g�ɂȂ�܂��B
-�R�C���P�̂͂P�R�}200�~200�T�C�Y�݂̂ł��B
-�R�C���P�͂P�R�}120�~120�T�C�Y�E240�~240�T�C�Y�E192�~192�T�C�Y(RPG�c�N�[������)������܂��B
-�R�C���Q�͂P�R�}320�~120�T�C�Y�E640�~240�T�C�Y������܂��B
+の３セットになります。
+コイン単体は１コマ200×200サイズのみです。
+コイン１は１コマ120×120サイズ・240×240サイズ・192×192サイズ(RPGツクール向け)があります。
+コイン２は１コマ320×120サイズ・640×240サイズがあります。
 
-�傫�߃T�C�Y�̂݉��H�p�Ɍ��F�O�̃t�@�C�������^���Ă��܂��B
-
-
-�t�@�C���T�C�Y���傫�߂Ȃ̂ŁA640�~480��ʂŎg�p����ꍇ�ł�
-320�~240��ʗp�̂��̂�200���Ɋg�債�Ďg�p���Ă�������������܂���B
+大きめサイズのみ加工用に減色前のファイルも収録しています。
 
 
-�F�Ⴂ�p�^�[���̍쐬�Ȃǉ��H���@�����L�̋L���ŏЉ�Ă��܂��̂ŁA�Q�l�ɂǂ����B
-�G�t�F�N�g�摜�f�ނ̐F�Ⴂ�̍��� : �҂ۂ�
+ファイルサイズが大きめなので、640×480画面で使用する場合でも
+320×240画面用のものを200％に拡大して使用してもいいかもしれません。
+
+
+色違いパターンの作成など加工方法を下記の記事で紹介していますので、参考にどうぞ。
+エフェクト画像素材の色違いの作り方 : ぴぽや
 http://piposozai.blog76.fc2.com/blog-entry-477.html
 
 
-�����p����
-�u�c���E��c����킸�̗��pOK�v
-�u���HOK�v
-�u�񎟔z�zOK�i�������f�ނ��̂��̂̏��p�̔��͋֎~�j�v
-�u�X�^�b�t���[���Ȃǂւ̖��O�̋L�q�E�g�p�A���s�v�v
-�u�E�f�B�^�ȊO�̃c�[���ł̎g�p���\�v
+●利用条件
+「営利・非営利問わずの利用OK」
+「加工OK」
+「二次配布OK（ただし素材そのものの商用販売は禁止）」
+「スタッフロールなどへの名前の記述・使用連絡不要」
+「ウディタ以外のツールでの使用も可能」
 
-�҂ۂ�
+ぴぽや
 http://piposozai.blog76.fc2.com

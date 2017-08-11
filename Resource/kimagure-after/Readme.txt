@@ -1,11 +1,11 @@
-�f�ޒ񋟌�
+素材提供元
 ==========
 
-�񋟎ҁi�h�̗��j
-���܂���A�t�^�[
+提供者（敬称略）
+きまぐれアフター
 
-�_�E�����[�h��
+ダウンロード先
 -
 
-���C�Z���X
+ライセンス
 http://www5d.biglobe.ne.jp/~gakai/HTML/kiyaku.html

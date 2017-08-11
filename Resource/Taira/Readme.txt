@@ -1,11 +1,11 @@
-�f�ޒ񋟌�
+素材提供元
 ==========
 
-�񋟎ҁi�h�̗��j
-���X�@��
+提供者（敬称略）
+小森　平
 
-�_�E�����[�h��
+ダウンロード先
 http://taira-komori.jpn.org/freesound.html
 
-���C�Z���X
+ライセンス
 http://taira-komori.jpn.org/welcome.html

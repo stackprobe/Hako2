@@ -1,31 +1,31 @@
-�t�H�O�摜�ɂȂ�܂��B
+フォグ画像になります。
 
-���^���e�͈ȉ��̂Ƃ���ł��B
-�@pipo-fog012.png�@���J�ς݂̉_�̃t�H�O�摜�̃V���v���o�[�W�����ł��B
-�@pipo-fog013.png�@�_�Q
-�@pipo-fog014.png�@�_�R
-�@pipo-fog015.png�@�_�S
-�@pipo-fog016.png�@�_�T
-�@pipo-fog017.png�@�_�U
-�@pipo-fog018.png�@�_�V
-�@pipo-fog019.png�@�L�����o�X�t�B���^
-�@pipo-fog020.png�@���J�ς̍������ތ��̕ʃo�[�W����
-�@pipo-fog021.png�@�����Y�t���A
+収録内容は以下のとおりです。
+　pipo-fog012.png　公開済みの雲のフォグ画像のシンプルバージョンです。
+　pipo-fog013.png　雲２
+　pipo-fog014.png　雲３
+　pipo-fog015.png　雲４
+　pipo-fog016.png　雲５
+　pipo-fog017.png　雲６
+　pipo-fog018.png　雲７
+　pipo-fog019.png　キャンバスフィルタ
+　pipo-fog020.png　公開済の差し込む光の別バージョン
+　pipo-fog021.png　レンズフレア
 
-��10�Z�b�g�ɂȂ�܂��B
+の10セットになります。
 
-�E�f�B�^�Ŏg�p����ꍇ�ɂ́u�V�X�e���f�[�^�x�[�X�@���i�摜�v�ŉ摜��o�^���āA
-�C�x���g�ɂāu�ϐ�����v�ŃV�X�e���ϐ�61�Ԃɍŏ��ɓo�^�����摜�ԍ���������ƁA
-�t�H�O�摜�Ƃ��ĕ\������܂��B
-�V�X�e���ϐ�64��,65�Ԃŕ\�����@�̒������ł��܂��B
+ウディタで使用する場合には「システムデータベース　遠景画像」で画像を登録して、
+イベントにて「変数操作」でシステム変数61番に最初に登録した画像番号を代入すると、
+フォグ画像として表示されます。
+システム変数64番,65番で表示方法の調整ができます。
 
 
-�����p����
-�u�c���E��c����킸�̗��pOK�v
-�u���HOK�v
-�u�񎟔z�zOK�i�������f�ނ��̂��̂̏��p�̔��͋֎~�j�v
-�u�X�^�b�t���[���Ȃǂւ̖��O�̋L�q�E�g�p�A���s�v�v
-�u�E�f�B�^�ȊO�̃c�[���ł̎g�p���\�v
+●利用条件
+「営利・非営利問わずの利用OK」
+「加工OK」
+「二次配布OK（ただし素材そのものの商用販売は禁止）」
+「スタッフロールなどへの名前の記述・使用連絡不要」
+「ウディタ以外のツールでの使用も可能」
 
-�҂ۂ�
+ぴぽや
  http://piposozai.blog76.fc2.com

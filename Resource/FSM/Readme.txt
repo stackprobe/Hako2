@@ -1,11 +1,11 @@
-‘fŞ’ñ‹ŸŒ³
+ç´ ææä¾›å…ƒ
 ==========
 
-’ñ‹ŸÒiŒhÌ—ªj
+æä¾›è€…ï¼ˆæ•¬ç§°ç•¥ï¼‰
 First Seed Material
 
-ƒ_ƒEƒ“ƒ[ƒhæ
+ãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰å…ˆ
 http://www.tekepon.net/fsm/
 
-ƒ‰ƒCƒZƒ“ƒX
+ãƒ©ã‚¤ã‚»ãƒ³ã‚¹
 http://www.tekepon.net/fsm/modules/refmap/index.php?mode=rules

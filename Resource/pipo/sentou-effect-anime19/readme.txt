@@ -1,40 +1,40 @@
-�퓬�p�G�t�F�N�g�A�j���[�V�����摜�ɂȂ�܂��B
+戦闘用エフェクトアニメーション画像になります。
 
-���^���e�͈ȉ��̂Ƃ���ł��B
-�@pipo-btleffect112a.png�@�g�傷�鐯(��)�@�p�^�[�����F15�@�\�����@�F�ʏ�E���Z
-�@pipo-btleffect112b.png�@�g�傷�鐯(��)�@�p�^�[�����F15�@�\�����@�F�ʏ�
-�@pipo-btleffect112c.png�@�g�傷�鐯(��)�@�p�^�[�����F15�@�\�����@�F�ʏ�E���Z
-�@pipo-btleffect112d.png�@�g�傷�鐯(��)�@�p�^�[�����F15�@�\�����@�F�ʏ�E���Z
-�@pipo-btleffect112e.png�@�g�傷�鐯(��)�@�p�^�[�����F15�@�\�����@�F�ʏ�E���Z
-�@pipo-btleffect112f.png�@�g�傷�鐯(���F)�@�p�^�[�����F15�@�\�����@�F�ʏ�E���Z
-�@pipo-btleffect112g.png�@�g�傷�鐯(��)�@�p�^�[�����F15�@�\�����@�F�ʏ�E���Z
-�@pipo-btleffect112h.png�@�g�傷�鐯(�s���N)�@�p�^�[�����F15�@�\�����@�F�ʏ�E���Z
-�@pipo-btleffect112i.png�@�g�傷�鐯(�I�����W)�@�p�^�[�����F15�@�\�����@�F�ʏ�E���Z
-�@pipo-btleffect112j.png�@�g�傷�鐯(��)�@�p�^�[�����F15�@�\�����@�F�ʏ�E���Z
-
-
-��1�Z�b�g�ɂȂ�܂��B
-�P�R�}120�~120�T�C�Y�E192�~192�T�C�Y(RPG�c�N�[���K�i)�E240�~240�T�C�Y������܂��B
-
-���w�i�̉摜�͓��ߏ����������̂��ʃt�H���_�ɂ���܂��B
+収録内容は以下のとおりです。
+　pipo-btleffect112a.png　拡大する星(白)　パターン数：15　表示方法：通常・加算
+　pipo-btleffect112b.png　拡大する星(黒)　パターン数：15　表示方法：通常
+　pipo-btleffect112c.png　拡大する星(紫)　パターン数：15　表示方法：通常・加算
+　pipo-btleffect112d.png　拡大する星(緑)　パターン数：15　表示方法：通常・加算
+　pipo-btleffect112e.png　拡大する星(青)　パターン数：15　表示方法：通常・加算
+　pipo-btleffect112f.png　拡大する星(水色)　パターン数：15　表示方法：通常・加算
+　pipo-btleffect112g.png　拡大する星(赤)　パターン数：15　表示方法：通常・加算
+　pipo-btleffect112h.png　拡大する星(ピンク)　パターン数：15　表示方法：通常・加算
+　pipo-btleffect112i.png　拡大する星(オレンジ)　パターン数：15　表示方法：通常・加算
+　pipo-btleffect112j.png　拡大する星(黄)　パターン数：15　表示方法：通常・加算
 
 
-�t�@�C���T�C�Y���傫�߂Ȃ̂ŁA640�~480��ʂŎg�p����
-�ꍇ�ł�320�~240��ʗp�̂��̂�200���Ɋg�債�Ďg�p���Ă�
-������������܂���B
+の1セットになります。
+１コマ120×120サイズ・192×192サイズ(RPGツクール規格)・240×240サイズがあります。
 
-�t�@�C���T�C�Y���������������ꍇ�ɂ͂�����̋L�����Q�l�ɂǂ����B
-�t���[�\�t�g���g���ĊȒP�ȑ���Ńt�@�C���T�C�Y�����������邱�Ƃ��ł��܂��B
-���`�����l���t��PNG�摜�̃t�@�C���T�C�Y������������ : �҂ۂ�
+黒背景の画像は透過処理したものも別フォルダにあります。
+
+
+ファイルサイズが大きめなので、640×480画面で使用する
+場合でも320×240画面用のものを200％に拡大して使用しても
+いいかもしれません。
+
+ファイルサイズを小さくしたい場合にはこちらの記事を参考にどうぞ。
+フリーソフトを使って簡単な操作でファイルサイズを小さくすることができます。
+αチャンネル付きPNG画像のファイルサイズを小さくする : ぴぽや
 http://piposozai.blog76.fc2.com/blog-entry-388.html
 
 
-�����p����
-�u�c���E��c����킸�̗��pOK�v
-�u���HOK�v
-�u�񎟔z�zOK�i�������f�ނ��̂��̂̏��p�̔��͋֎~�j�v
-�u�X�^�b�t���[���Ȃǂւ̖��O�̋L�q�E�g�p�A���s�v�v
-�u�E�f�B�^�ȊO�̃c�[���ł̎g�p���\�v
+●利用条件
+「営利・非営利問わずの利用OK」
+「加工OK」
+「二次配布OK（ただし素材そのものの商用販売は禁止）」
+「スタッフロールなどへの名前の記述・使用連絡不要」
+「ウディタ以外のツールでの使用も可能」
 
-�҂ۂ�
+ぴぽや
 http://piposozai.blog76.fc2.com

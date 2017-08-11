@@ -1,8 +1,8 @@
-�f�ޒ񋟌�
+素材提供元
 ==========
 
-�񋟎ҁi�h�̗��j
-�l�Y
+提供者（敬称略）
+瀝青炭
 
-�_�E�����[�h��
+ダウンロード先
 http://www.pixiv.net/member_illust.php?id=5998574
