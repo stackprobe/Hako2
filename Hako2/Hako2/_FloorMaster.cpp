@@ -4,10 +4,9 @@ static SubScreen_t *GetSSFloorNo(int floorNo)
 {
 	char *dispPtn;
 
-	// zantei
-//	if(floorNo == FLOOR_NUM)
-//		dispPtn = strx("FINAL FLOOR");
-//	else
+	if(floorNo == FLOOR_NUM)
+		dispPtn = xcout("FINAL FLOOR", floorNo);
+	else
 		dispPtn = xcout("FLOOR %d", floorNo);
 
 	const int MARGIN = 10;

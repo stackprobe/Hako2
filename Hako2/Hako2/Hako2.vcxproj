@@ -218,6 +218,9 @@
     <ClInclude Include="_Replay.h" />
     <ClInclude Include="_ReplayData.h" />
   </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="..\Resource.rc" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
