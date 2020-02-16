@@ -28,9 +28,9 @@ void Logo(void)
 
 		LogoChars->AddElement(ss);
 	}
-	LCPosList = na(d2D_t, LogoChars->GetCount());
-	LCRotList = na(double, LogoChars->GetCount());
-	LCZoomList = na(double, LogoChars->GetCount());
+	LCPosList = na_(d2D_t, LogoChars->GetCount());
+	LCRotList = na_(double, LogoChars->GetCount());
+	LCZoomList = na_(double, LogoChars->GetCount());
 	Rnd = new Random((int)time(NULL));
 
 	for(int index = 0; index < LogoChars->GetCount(); index++)

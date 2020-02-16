@@ -187,7 +187,7 @@ void PrintRet(void)
 }
 void Print(char *line)
 {
-	PrintInfo_t *i = nb(PrintInfo_t);
+	PrintInfo_t *i = nb_(PrintInfo_t);
 
 	i->X = P_BaseX + P_X;
 	i->Y = P_BaseY + P_Y;

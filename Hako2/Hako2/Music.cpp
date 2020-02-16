@@ -12,7 +12,7 @@ PlayInfo_t;
 
 static PlayInfo_t *CreatePI(int command, MusicInfo_t *music, int once_mode, int resume_mode, double volume_rate)
 {
-	PlayInfo_t *i = nb(PlayInfo_t);
+	PlayInfo_t *i = nb_(PlayInfo_t);
 
 	i->Command = command;
 	i->Music = music;
@@ -33,7 +33,7 @@ double CurrDestMusicVolumeRate;
 
 static MusicInfo_t *LoadMusic(autoList<uchar> *fileData)
 {
-	MusicInfo_t *i = nb(MusicInfo_t);
+	MusicInfo_t *i = nb_(MusicInfo_t);
 
 	i->Handle = LoadSound(fileData);
 	i->Volume = 0.5;

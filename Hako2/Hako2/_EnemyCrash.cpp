@@ -22,7 +22,7 @@ void AddEnemyCrash(fPInt_t x, fPInt_t y, fPInt_t w, fPInt_t h)
 	errorCase(w < 1 || IMAX < w);
 	errorCase(h < 1 || IMAX < h);
 
-	Crash_t *i = nb(Crash_t);
+	Crash_t *i = nb_(Crash_t);
 
 	i->X = x;
 	i->Y = y;

@@ -4,7 +4,7 @@ static autoList<DerInfo_t *> *DerList;
 
 static void AddDer(int parentPicId, int x, int y, int w, int h)
 {
-	DerInfo_t *i = nb(DerInfo_t);
+	DerInfo_t *i = nb_(DerInfo_t);
 
 	i->ParentPicId = parentPicId;
 	i->X = x;

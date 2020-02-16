@@ -39,7 +39,7 @@ int Pic_SoftImage2GraphicHandle(int si_h) // si_h: bind
 }
 PicInfo_t *Pic_GraphicHandle2PicInfo(int handle) // handle: bind
 {
-	PicInfo_t *i = nb(PicInfo_t);
+	PicInfo_t *i = nb_(PicInfo_t);
 	int w;
 	int h;
 

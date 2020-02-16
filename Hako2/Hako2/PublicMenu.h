@@ -79,7 +79,7 @@ public:
 		errorCase(m_isEmpty(item));
 		errorCase(!func);
 
-		PubMnuItem_t *i = nb(PubMnuItem_t);
+		PubMnuItem_t *i = nb_(PubMnuItem_t);
 
 		i->Line = strx(item);
 		i->Type = 'F';
@@ -95,7 +95,7 @@ public:
 		errorCase(maxval < minval || IMAX < maxval);
 		errorCase(smallest < 1 || IMAX < smallest);
 
-		PubMnuItem_t *i = nb(PubMnuItem_t);
+		PubMnuItem_t *i = nb_(PubMnuItem_t);
 
 		i->Line = strx(item);
 		i->Type = 'I';
@@ -114,7 +114,7 @@ public:
 		errorCase(maxval < minval || (double)IMAX < maxval);
 		errorCase(denom < 1 || IMAX < denom);
 
-		PubMnuItem_t *i = nb(PubMnuItem_t);
+		PubMnuItem_t *i = nb_(PubMnuItem_t);
 
 		i->Line = strx(item);
 		i->Type = 'D';
@@ -131,7 +131,7 @@ public:
 		errorCase(!getter);
 		errorCase(!adder);
 
-		PubMnuItem_t *i = nb(PubMnuItem_t);
+		PubMnuItem_t *i = nb_(PubMnuItem_t);
 
 		i->Line = strx(item);
 		i->Type = 'i';
@@ -146,7 +146,7 @@ public:
 		errorCase(!getter);
 		errorCase(!adder);
 
-		PubMnuItem_t *i = nb(PubMnuItem_t);
+		PubMnuItem_t *i = nb_(PubMnuItem_t);
 
 		i->Line = strx(item);
 		i->Type = 'd';
@@ -162,7 +162,7 @@ public:
 
 		// Add Return
 		{
-			PubMnuItem_t *i = nb(PubMnuItem_t);
+			PubMnuItem_t *i = nb_(PubMnuItem_t);
 
 			i->Line = strx(returnItem);
 			i->Type = 'R';

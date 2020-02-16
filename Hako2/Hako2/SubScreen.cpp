@@ -7,7 +7,7 @@ SubScreen_t *CreateSubScreen(int w, int h, int aFlag)
 	errorCase(w < 1 || IMAX < w);
 	errorCase(h < 1 || IMAX < h);
 
-	SubScreen_t *i = nb(SubScreen_t);
+	SubScreen_t *i = nb_(SubScreen_t);
 
 	i->W = w;
 	i->H = h;

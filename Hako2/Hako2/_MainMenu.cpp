@@ -37,7 +37,7 @@ static void InitWall(void)
 
 	for(int c = 0; c < 100; c++)
 	{
-		WallBox_t *wb = nb(WallBox_t);
+		WallBox_t *wb = nb_(WallBox_t);
 
 		wb->X = Rnd->DRnd() * SCREEN_W;
 		wb->Y = Rnd->DRnd() * SCREEN_H;

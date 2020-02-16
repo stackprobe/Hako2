@@ -99,7 +99,7 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine
 
 #if LOG_ENABLED // test
 	{
-		char *b = na(char, 32);
+		char *b = na_(char, 32);
 		int s = 32;
 		camellia_decrypt_extend(b, s, 1);
 		memFree(b);

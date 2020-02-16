@@ -6,7 +6,7 @@ Enemy_t *CreateEnemy(int enemyType, fPInt_t x, fPInt_t y)
 	errorCase(x < -IMAX || IMAX < x);
 	errorCase(y < -IMAX || IMAX < y);
 
-	Enemy_t *i = nb(Enemy_t);
+	Enemy_t *i = nb_(Enemy_t);
 
 	i->EnemyType = enemyType;
 	i->X = x;

@@ -2,7 +2,7 @@
 
 MCell_t *CreateMCell(void)
 {
-	MCell_t *i = nb(MCell_t);
+	MCell_t *i = nb_(MCell_t);
 
 	return i;
 }

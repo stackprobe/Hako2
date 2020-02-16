@@ -11,7 +11,7 @@ static void UpdateSEVolumeFunc(SEInfo_t *i)
 }
 static SEInfo_t *LoadSE(autoList<uchar> *fileData)
 {
-	SEInfo_t *i = nb(SEInfo_t);
+	SEInfo_t *i = nb_(SEInfo_t);
 
 	i->HandleList[0] = LoadSound(fileData);
 

@@ -84,7 +84,7 @@ public:
 		this->FirstTweek = firstTweek;
 		this->ResLoader = resLoader;
 		this->ResUnloader = resUnloader;
-		this->HandleList = na(Handle_t, resCount);
+		this->HandleList = na_(Handle_t, resCount);
 		this->LoadedList = new bitList();
 		this->ResMode = 0;
 		this->FileList = NULL;
