@@ -25,4 +25,4 @@ COPY /B res\_Dummy out\Replay
 C:\Factory\SubTools\zip.exe /G out Hako2
 C:\Factory\Tools\summd5.exe /M out
 
-PAUSE
+IF NOT "%1" == "/-P" PAUSE
