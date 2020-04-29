@@ -7,14 +7,13 @@ C:\Factory\SubTools\makeCluster.exe Music.txt       out\Music.dat       %RAWKEY%
 C:\Factory\SubTools\makeCluster.exe SoundEffect.txt out\SoundEffect.dat %RAWKEY% 130000000
 C:\Factory\SubTools\makeCluster.exe Etcetera.txt    out\Etcetera.dat    %RAWKEY% 140000000
 
-COPY /B Hako2\Release\Hako2.exe out\Hako2.exe
+COPY /B Hako2\Release\Hako2.exe out
+COPY /B AUTHORS out
+C:\Factory\Tools\xcp.exe doc out
+ren out\Manual.txt マニュアル.txt
 
 out\Hako2.exe /L
 IF ERRORLEVEL 1 START ?_LOG_ENABLED
-
-C:\Factory\Tools\xcp.exe doc out
-ren out\Manual.txt マニュアル.txt
-ren out\Changelog.txt 更新履歴.txt
 
 MD out\Map
 COPY /B res\_Dummy out\Map
