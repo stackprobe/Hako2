@@ -127,7 +127,7 @@ static void SD_WriteBitList(bitList *src)
 {
 	autoList<char> *buff = new autoList<char>();
 
-	for(int index = 0; index < src->GetList_DIRECT()->GetCount() * (int)sizeof(uint) * CHAR_BIT; index++) // fixme: 最終ビット位置を返すメソッド
+	for(int index = 0; index < src->GetList_DIRECT()->GetCount() * (int)sizeof(uint) * CHAR_BIT; index++) // todo: 最終ビット位置を返すメソッド
 	{
 		buff->AddElement(src->RefBit(index) ? '1' : '0');
 	}
