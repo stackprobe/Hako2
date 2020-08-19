@@ -4,6 +4,7 @@
 
 CLS
 rem リリースして qrum します。
+	rem ★要バージョン入力
 IF NOT "%1" == "/-P" PAUSE
 
 CALL newcsrr
