@@ -14,7 +14,7 @@ http://cerulean.fam.cx
 開発環境
 --------
 
-Windows 10 Pro
+Windows 10 (Pro | Home)
 Visual C++ 2010 Express
 DxLib
 
