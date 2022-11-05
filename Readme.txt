@@ -7,8 +7,7 @@ Windows用フリーゲーム Hako2 の開発環境です。
 ビルド済み配布物
 ----------------
 
-http://cerulean.ccsp.mydns.jp
--> HAKO!2
+https://www.freem.ne.jp/win/game/10044
 
 
 開発環境
